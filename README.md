@@ -42,7 +42,7 @@ Custom user input
 ## Basic Build Instructions
 
 1. Clone this repo.
-2. A Makefile is include for convenience, simply run `make build` to build and compile the program.
+2. A Makefile is included for convenience, simply run `make build` to build and compile the program.
 3. Run the program with `./build/JuliaSet`
 4. `make clean` can be run to remove the build directly
 
